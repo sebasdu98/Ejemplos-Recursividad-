@@ -1,0 +1,8 @@
+Defino una función (par) con su debido parámetro, luego comparo si su parametro es igual a 0
+retorne el valor booleano True. De lo contrario retorne la función impar con el valor actual de la
+función par -1.
+Defino la otra función impar que tiene como argumento el mismo argumento de la función par, donde me
+retorne el booleano de par PERO negado con la palabra reservada NOT.
+Luego asigno los valores e imprimiendo sus ejemplos.
+
+- La funcion recursiva es Par(x).

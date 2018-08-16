@@ -1,0 +1,3 @@
+Primero pido un numero por consola
+
+La funcion recursiva sum_dig  toma ese digito y si el numero es 0 retorna el numero si no, la funcion saca n modulo 10 para el resto y se volvera a llamar a la funcion con n/10 y asi sucesivamente hasta que n sea 0
